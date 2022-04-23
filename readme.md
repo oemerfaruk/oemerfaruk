@@ -1,13 +1,14 @@
-# Mehaba Dünya
+# Mehaba Dünya ✋
 
 Merhaba ben Ömer Faruk.
+
 
 ## Projeler
 + 2010-2020 yılları arasında Türkiye ve Avrupa Kıtası’nın orta enlem bölgesinde gerçekleşen m6 üstü depremlerin iyonosferik etkilerinin araştırılması, **TÜBİTAK 2209-A**
 + Katay Projesi, **Yıldız Teknik Üniversitesi Astronomi Kulübü**
-    - Teknik Ekip Lideri
-    - İyonosonda tasarım, üretim, kurulumu; sinyal analizi, sinyal işleme, hf haberleşme
-    - **Teknofest 2020 İnsanlık Yararına Afet Kategorisi En İyi Sunum Ödülü**
+    + Teknik Ekip Lideri
+    + İyonosonda tasarım, üretim, kurulumu; sinyal analizi, sinyal işleme, hf haberleşme
+    + **Teknofest 2020 İnsanlık Yararına Afet Kategorisi En İyi Sunum Ödülü**
 ## Ödül ve Sertifikalar
 + Tübitak 2242 Üniversite Öğrencileri Araştırma Proje Yarışması
     + Savunma, Uzay ve Havacılık Kategorisi
