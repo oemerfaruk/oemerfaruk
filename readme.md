@@ -18,7 +18,6 @@ Merhaba ben Ömer Faruk.
     + En İyi Sunum Ödülü
 ## Deneyim
 + Okul Temsilcisi, **Gençlik ve Spor Bakanlığı**
-    + İstanbul’dan Mardin’e Yıldız Yolu
     + 2021 Uluslararası Diyarbakır-Zerzevan Gökyüzü Gözlem Etkinliği
     + YTUAST Horizon Projesi
 + Ürün Geliştirme Uzmanı, **Nuvia Enerji Teknolojileri**
