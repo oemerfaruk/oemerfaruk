@@ -15,9 +15,7 @@ I'm studying Physics at Yıldız Technical University. I'm working on Ionosphere
 + __Backend__
     + Python
     + Golang
-+ __Web__
-    + Python
-    + Javascrip
+    + Javascript
 + __Data Science__
     + Python
     + Java
