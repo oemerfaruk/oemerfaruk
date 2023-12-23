@@ -2,7 +2,7 @@
 # Hello There ✋, I'm Ömer Faruk
 
 
-I'm studying Physics at Yıldız Technical University. I'm working on Ionosphere Analysis as a data scientist. Interested in HF&Ku band comms, machine learning, cybersecurity and system engineering.
+I'm studying Physics at Yıldız Technical University. I'm working on Ionosphere Analysis as a software developer and data scientist at YTU Space Physics Research Group. Interested in amatuer radio bands and satellite comms, machine learning algorithms, backend development, Network|Cybersecurity|System engineering.
 
 ### I can coding with;
 
