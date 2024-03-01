@@ -2,7 +2,7 @@
 # Hello There ✋, I'm Ömer Faruk
 
 
-I'm studying Physics at Yıldız Technical University. I'm working on Ionosphere Analysis as a software developer and data scientist at YTU Space Physics Research Group. Interested in amatuer radio bands and satellite comms, machine learning algorithms, backend development, Network|Cybersecurity|System engineering.
+I am currently a co-founder and software developer at seoem.co. I'm working on Ionosphere Analysis as a software developer and data scientist at YTU Space Physics Research Group. Interested in amatuer radio bands and satellite comms, machine learning algorithms, backend development, Network|Cybersecurity|System engineering.
 
 ### I can coding with;
 
