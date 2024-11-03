@@ -17,6 +17,7 @@ I am currently a co-founder and software developer at seoem.co. I'm working on I
 
 ## Stack
 ### :snake: Python
++ __RestAPI:__ RestAPI, Mail, ... [Case Study - PokeAPI](https://github.com/oemerfaruk/PokeAPI---Study-Case)
 + __Data Science:__ Pandas, Numpy [GIRO Analysis](https://github.com/oemerfaruk/GIRO_Analysis)
 + __Data Visulation:__ Matplotlib, Seaborn [GIRO Analysis](https://github.com/oemerfaruk/GIRO_Analysis)
 + __Test Automation:__ Selenium [Ionolab Data Download](https://github.com/oemerfaruk/ionolab-data-download)
