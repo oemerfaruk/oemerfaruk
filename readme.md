@@ -10,8 +10,8 @@ I am currently a co-founder and software developer at seoem.co. I'm working on I
 |||
 | --- |---|
 |Python|:star::star::star::star::star:|
+|Javascript|:star::star::star::star::star:|
 |C/C++|:star::star::star::star:|
-|Javascript|:star::star::star::star:|
 |Golang|:star::star::star:|
 |Java|:star::star::star:|
 
