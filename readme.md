@@ -14,6 +14,23 @@ I am currently a co-founder and software developer at seoem.co. I'm working on I
 |C/C++|:star::star::star::star:|
 |Golang|:star::star::star:|
 |Java|:star::star::star:|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oemerfaruk&layout=compact&theme=tokyonight)|Top Langs at Public Repos|
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=oemerfaruk&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oemerfaruk&show_icons=true&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=oemerfaruk)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/oemer-faruk-aydin/)
+[![Instagram](https://img.shields.io/badge/Instagram-@oemerfaruk.dev-blue)](https://www.instagram.com/oemerfaruk.dev/)
+[![Youtube](https://img.shields.io/badge/Youtube-@oemerfaruk.dev-red)](https://www.youtube.com/@oemerfarukdev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-@oemerfaruk-blue)](https://www.kaggle.com/oemerfaruk)
+[![Web](https://img.shields.io/badge/Kaggle-@oemerfaruk-green)](https://www.oemerfaruk.dev)
+
+
+
+
+
 
 ## Stack
 ### :snake: Python
