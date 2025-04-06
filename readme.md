@@ -16,10 +16,8 @@ I am currently a co-founder and software developer at seoem.co. I'm working on I
 |Java|:star::star::star:|
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oemerfaruk&layout=compact&theme=tokyonight)|Top Langs at Public Repos|
 
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=oemerfaruk&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oemerfaruk&show_icons=true&theme=tokyonight)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=oemerfaruk)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/oemer-faruk-aydin/)
 [![Instagram](https://img.shields.io/badge/Instagram-@oemerfaruk.dev-blue)](https://www.instagram.com/oemerfaruk.dev/)
