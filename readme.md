@@ -6,11 +6,11 @@
 
 **Software Engineer & Data Scientist** | **Amateur Radio Operator ([TA2KYT](https://www.qrz.com/db/TA2KYT))**
 
-[![Website](https://img.shields.io/badge/Website-seoem.co-007ACC?style=flat-square&logo=google-chrome&logoColor=white)](https://seoem.co)
+[![Website](https://img.shields.io/badge/Website-oemerfaruk.dev-007ACC?style=flat-square&logo=google-chrome&logoColor=white)](https://oemerfaruk.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oemer--faruk--aydin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oemer-faruk-aydin)
 [![Kaggle](https://img.shields.io/badge/Kaggle-oemerfaruk-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/oemerfaruk)
 [![YouTube](https://img.shields.io/badge/YouTube-@oemerfarukdev-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@oemerfarukdev)
-[![Email](https://img.shields.io/badge/Email-oemerfarukaydin07%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oemerfarukaydin07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-oemerfarukaydin97%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oemerfarukaydin97@gmail.com)
 
 </div>
 
