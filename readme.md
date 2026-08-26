@@ -1,4 +1,8 @@
 <div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=20BEFF&center=true&vCenter=true&width=435&lines=%3E_Listening+to+the+Ionosphere...;%3E_Decoding+satellite+telemetry...;%3E_Compiling+space+physics+models...;%3E_73+from+TA2KYT!" alt="Typing SVG" />
+</div>
+<div align="center">
 
 ![Hello There](https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47h94cbuk9nrkiwj97g7x8q7kh5ng45pazkh6zresq&rid=giphy.gif&ct=g)
 
@@ -49,15 +53,3 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oemerfaruk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oemerfaruk&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oemerfaruk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
