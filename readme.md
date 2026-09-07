@@ -19,8 +19,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ### 🛰️ About Me
+
+</div>
 
 - 🔭 **Co-Founder & Software Developer** at [seoem.co](https://seoem.co).
 - 🌌 **Software Developer & Data Scientist** at **YTU Space Physics Research Group**, analyzing **Ionosphere Dynamics & Space Weather**.
@@ -28,8 +31,10 @@
 - ⚙️ Focused on **Scientific Computing, High-Performance Backends, Network & Cybersecurity, and Machine Learning**.
 
 ---
-
+<div align="center">
+  
 ### 🛠️ Tech Stack & Ecosystem
+</div>
 
 <div align="center">
 
@@ -43,8 +48,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ### 🚀 Key Focus & Research Areas
+
+</div>
 
 - **🛰️ Ionosphere & Space Weather:** Automated data ingestion and scientific modeling pipelines for GIRO ionosonde and GNSS TEC datasets.
 - **🛡️ Cybersecurity & Custom Tooling:** Network monitoring, automated OSINT pipelines, and packet inspection utilities.
@@ -53,3 +61,24 @@
 
 ---
 
+---
+<div align="center">
+  
+### 🌐 Let's Connect
+
+</div>
+
+<p align="center">
+  <a href="mailto:oemerfarukaydin97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-oemerfarukaydin97%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://x.com/TA2KYT" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://linkedin.com/in/oemer-faruk-aydin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://oemerfaruk.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-oemerfaruk.dev-2563EB?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</p>
