@@ -25,7 +25,7 @@
 
 </div>
 
-- 🔭 **Co-Founder & Software Developer** at [seoem.co](https://seoem.co).
+- 🔭 **Software & Data Engineer** at [seoem.co](https://seoem.co).
 - 🌌 **Software Developer & Data Scientist** at **YTU Space Physics Research Group**, analyzing **Ionosphere Dynamics & Space Weather**.
 - 📡 Licensed Amateur Radio Operator (**TA2KYT**) passionate about **Satellite Comms, SDR & RF Systems**.
 - ⚙️ Focused on **Scientific Computing, High-Performance Backends, Network & Cybersecurity, and Machine Learning**.
